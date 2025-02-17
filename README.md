@@ -39,7 +39,7 @@
     <img src="https://github.com/user-attachments/assets/b7668af7-43c7-40aa-b9e8-ec306758f928">
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/3194e6b9-6c54-4688-9d89-1d3541f445b7">
+    <img src="https://github.com/user-attachments/assets/c606ebee-9c9d-44b4-bd43-c8978814bbab">
   </div>
   <div>
     <img src="https://github.com/user-attachments/assets/b278b7f2-7e4a-41c7-b167-15b89deedf74">
