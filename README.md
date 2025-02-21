@@ -1,7 +1,4 @@
 <div align="left">
-  <h1>Andrej Koller 🌐🧵</h1>
-</div>
-<div align="left">
   <h3>ABOUT MY WEBSITE</h3>
 </div>
 <div align="left">
