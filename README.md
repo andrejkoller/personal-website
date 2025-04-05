@@ -1,44 +1,38 @@
-<div align="left">
-  <h3>ABOUT MY WEBSITE</h3>
-</div>
-<div align="left">
-  <p>
-    This website is created for personal use to showcase my ongoing and completed projects.
-  </p>
-  <p>
-    Kindly note that the classical art images displayed on my website are placeholders for future updates<br>
-    and have been sourced from open access collections.
-  </p>
-</div>
-<div>
-  <p>Live: <span>https://andrejkoller.com</span></span></p>
-</div>
 <div align="center">
   <div>
-    <img src="https://github.com/user-attachments/assets/5dd5e0a7-7731-428d-98a6-1db5ec016a0e">
+    <img src="https://github.com/user-attachments/assets/421ac964-fec2-444e-b572-ce788c3359d9">
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/a65f3144-bbe2-4447-9395-07f5e5dbdcb2">
+    <img src="https://github.com/user-attachments/assets/0bf17589-1005-49fd-9a0e-58f27bcf8419">
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/52ed9f3d-a74e-4faa-879a-b0c927d65328">
+    <img src="https://github.com/user-attachments/assets/ccef5fd2-8621-425a-9ef8-347a66f39946">
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/493cca63-261d-447c-9b3e-2d05bc864c41">
+    <img src="https://github.com/user-attachments/assets/90a208e4-2b38-42c2-b5c3-b976f9802d47">
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/032da5ae-2c48-4997-8656-d377883b6671">
+    <img src="https://github.com/user-attachments/assets/9398e41e-8690-4a82-a5bb-dffdc7766b11">
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/a382c70e-6a44-477e-8a27-336ef4240d90">
+    <img src="https://github.com/user-attachments/assets/f224c4fe-3d50-49de-8e2d-55a39cb47806">
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/b7668af7-43c7-40aa-b9e8-ec306758f928">
+    <img src="https://github.com/user-attachments/assets/47ce05d8-dace-4489-ab1e-daa864b693ff">
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/eb2213f0-1a65-4936-a9c8-7ab216682865">
+    <img src="https://github.com/user-attachments/assets/2e14961f-e4f5-4b88-aa7c-8874e0834b34">
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/b278b7f2-7e4a-41c7-b167-15b89deedf74">
+    <img src="https://github.com/user-attachments/assets/b37b1bd1-a50f-464d-a564-51cb32e7623b">
+  </div>
+  <div>
+    <img src="https://github.com/user-attachments/assets/3680a9cc-6bb3-48c3-b9e7-683bd2ea64fc">
+  </div>
+  <div>
+    <img src="https://github.com/user-attachments/assets/23b3242f-a28b-4397-ac65-90571e589922">
+  </div>
+  <div>
+    <img src="https://github.com/user-attachments/assets/629d37f1-1858-4af5-8cbf-69886dcdc21e">
   </div>
 </div>
